@@ -5,8 +5,8 @@
   ],
   "routes": [
     { "src": "/asif", "dest": "/asif.js" },
-        { "src": "/adil", "dest": "/adil.js" },
-    { "src": "/adilpass", "dest": "/adilpass.js" },
+        { "src": "/inyt", "dest": "/inyt.js" },
+    { "src": "/inytpass", "dest": "/inytpass.js" },
 { "src": "/inyat", "dest": "/inyat.js" },
     { "src": "/inyatpass", "dest": "/inyatpass.js" },
     { "src": "/mnsr", "dest": "/mnsr.js" },
